@@ -1,0 +1,10 @@
+Desarrollo del proyecto:
+Una jugueteria necesita un sistema de registraciòn de horas trabajadas para calcular el monto a abonar semanalmente a su empleado. Necesitarà un sistema de carga horaria y càlculo de costos.
+El sistema tiene las siguientes funcionalidades:
+Calculo de costo semanal para la empresa
+Este sistema le permitirá a la empresa saber cuál es el monto que deberá abonar a su empleado cada semana.
+Seguimiento de cantidad de horas trabajadas
+El sistema le permitirá al empleado llevar un control diario de cantidad de horas acumuladas trabajadas durante la semana pudiendo identificar si cumplió o no con lo pactado con su empleador, así como también cual es el monto a cobrar por esa semana trabajada.
+Logo del proyecto: (Realizado con Brandmark)
+
+ 
